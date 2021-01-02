@@ -1,16 +1,17 @@
-### Hi there 👋
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<!--
-**itsAbdiyu/itsAbdiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'>
+  Hey there, Abdi here! 👋
+</h1>
+<p align='center'>
+  <a href='mailto:abdiyuu7@gmail.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='abdiyuu' height='25' width='25'/></a>
+  <a href=''><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='abdiyuu'height='25' width='25'/></a>
+<h3 align='center'>
+ITCS @ <a href='https://www.sait.ca' target='blank'>SAIT</a>
+</h3>
 
-Here are some ideas to get you started:
+<p
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 You can reach me at abdiyuu7@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently in school, also working on some personal projects to build my knowledge.
+- 🌱 I’m currently learning Python, HTML, JS, and various related frameworks.
+- 💬 Ask me about my projects, my favourite anime, anything you like!
