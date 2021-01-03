@@ -5,7 +5,7 @@
 </h1>
 <p align='center'>
   <a href='mailto:abdiyuu7@gmail.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='abdiyuu' height='25' width='25'/></a>
-  <a href=''><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='abdiyuu'height='25' width='25'/></a>
+  <a href='https://www.linkedin.com/in/abdiyuu/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='abdiyuu'height='25' width='25'/></a>
 <h3 align='center'>
 ITCS @ <a href='https://www.sait.ca' target='blank'>SAIT</a>
 </h3>
