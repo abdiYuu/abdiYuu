@@ -13,5 +13,5 @@ ITCS @ <a href='https://www.sait.ca' target='blank'>SAIT</a>
 <p
 
 - 🔭 I’m currently in school, also working on some personal projects to build my knowledge.
-- 🌱 I’m currently learning Python, HTML, JS, and various related frameworks.
+- 🌱 I’m currently learning Python, HTML/CSS, JS, and various related frameworks.
 - 💬 Ask me about my projects, my favourite anime, anything you like!
