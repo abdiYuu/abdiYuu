@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 <h1 align='center'>
-  Hey there, Abdi here! 👋
+  Hey there, Abdi here! 👋🏾
 </h1>
 <p align='center'>
   <a href='mailto:abdiyuu7@gmail.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='abdiyuu' height='25' width='25'/></a>
